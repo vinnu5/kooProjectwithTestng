@@ -1,0 +1,4 @@
+# Created at 2022-11-28T20:41:36.215
+Boot Manifest-JAR contains absolute paths in classpath 'D:\eclipse workspace\kooapp\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+

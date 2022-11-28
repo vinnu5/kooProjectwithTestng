@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="9" passed="9" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-28T14:25:41Z" name="Default suite" finished-at="2022-11-28T14:26:21Z" duration-ms="40148">
+    <groups>
+    </groups>
+    <test started-at="2022-11-28T14:25:41Z" name="Default test" finished-at="2022-11-28T14:26:21Z" duration-ms="40148">
+      <class name="koowebapp.koo">
+        <test-method is-config="true" signature="BeT()[pri:0, instance:koowebapp.koo@291a7e3c]" started-at="2022-11-28T19:55:41Z" name="BeT" finished-at="2022-11-28T19:55:50Z" duration-ms="8626" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeT -->
+        <test-method signature="t1()[pri:0, instance:koowebapp.koo@291a7e3c]" started-at="2022-11-28T19:55:50Z" name="t1" finished-at="2022-11-28T19:55:53Z" duration-ms="3206" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- t1 -->
+        <test-method signature="t2()[pri:0, instance:koowebapp.koo@291a7e3c]" started-at="2022-11-28T19:55:53Z" name="t2" finished-at="2022-11-28T19:55:58Z" duration-ms="5172" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- t2 -->
+        <test-method signature="t3()[pri:0, instance:koowebapp.koo@291a7e3c]" started-at="2022-11-28T19:55:58Z" name="t3" finished-at="2022-11-28T19:56:01Z" duration-ms="3094" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- t3 -->
+        <test-method signature="t4()[pri:0, instance:koowebapp.koo@291a7e3c]" started-at="2022-11-28T19:56:01Z" name="t4" finished-at="2022-11-28T19:56:05Z" duration-ms="3218" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- t4 -->
+        <test-method signature="t5()[pri:0, instance:koowebapp.koo@291a7e3c]" started-at="2022-11-28T19:56:05Z" name="t5" finished-at="2022-11-28T19:56:08Z" duration-ms="3352" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- t5 -->
+        <test-method signature="t6()[pri:0, instance:koowebapp.koo@291a7e3c]" started-at="2022-11-28T19:56:08Z" name="t6" finished-at="2022-11-28T19:56:11Z" duration-ms="3129" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- t6 -->
+        <test-method signature="t7()[pri:0, instance:koowebapp.koo@291a7e3c]" started-at="2022-11-28T19:56:11Z" name="t7" finished-at="2022-11-28T19:56:14Z" duration-ms="3135" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- t7 -->
+        <test-method signature="t8()[pri:0, instance:koowebapp.koo@291a7e3c]" started-at="2022-11-28T19:56:14Z" name="t8" finished-at="2022-11-28T19:56:17Z" duration-ms="3125" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- t8 -->
+        <test-method signature="t9()[pri:0, instance:koowebapp.koo@291a7e3c]" started-at="2022-11-28T19:56:17Z" name="t9" finished-at="2022-11-28T19:56:21Z" duration-ms="3111" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- t9 -->
+        <test-method is-config="true" signature="t10()[pri:0, instance:koowebapp.koo@291a7e3c]" started-at="2022-11-28T19:56:21Z" name="t10" finished-at="2022-11-28T19:56:21Z" duration-ms="924" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- t10 -->
+      </class> <!-- koowebapp.koo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
